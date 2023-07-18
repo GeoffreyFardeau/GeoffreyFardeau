@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Geoffrey Fardeau</h1>
 <h3 align="center">A web developper</h3>
 
+[![Geoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoffreyFardeau)](https://github.com/GeoffreyFardeau/github-readme-stats)
+
 - 🌱 I’m currently learning **JavaScript, Node, ExpressJS, SQL and other funny things !**
 
 - 📫 How to reach me **fardeau.geoffrey@gmail.com**
