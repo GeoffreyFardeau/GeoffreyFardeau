@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/kJV3yFjaVYtlP0CMOR" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-fusionacl-pizzacoding-kJV3yFjaVYtlP0CMOR">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Geoffrey Fardeau</h1>
 <h3 align="center">A web developper</h3>
 
