@@ -11,8 +11,3 @@ Hey there !<br><br>Je suis Geoffrey, et je suis une formation de 6 mois en tant 
 ![](https://github-readme-stats.vercel.app/api?username=GeoffreyFardeau&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GeoffreyFardeau&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffreyFardeau&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
