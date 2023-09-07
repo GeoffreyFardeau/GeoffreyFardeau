@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there !<br><br>Je suis Geoffrey, et je suis une formation de 6 mois en tant que développeur web, <br>les technologies qui sont enseignées sont JS, ExpressJS et Node.<br><br>Je me dirige vers la spécialisation Back-End, et en plus de mon parcours, j'apprends Java, Java EE et Angular
+Hey there !<br><br>Je suis Geoffrey, et je suis une formation de 6 mois en tant que développeur web, <br>les technologies qui sont enseignées sont JS, ExpressJS et Node.<br><br>Je me dirige vers la spécialisation Back-End, et en plus de mon parcours, j'apprends Java, Springboot et Angular
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Geoffrey-Fardeau) 
