@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning Angular, Typescript and Java<br><br>Working with Javascript 
+Working currently with Angular, JS, SpringBoot
 
 
 ## 🌐 Socials:
